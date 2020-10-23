@@ -1,1 +1,8 @@
 BODY {   font-family: helvetica; font-size: 12px;   }
+
+
+h1 {
+color:33485e;
+text-decoration:uppercase;
+
+}
