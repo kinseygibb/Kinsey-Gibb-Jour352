@@ -39,3 +39,30 @@ strong {
   max-width:1200px;
   margin: 0 auto;
 }
+
+  {
+    margin: 0;
+    padding: 0;
+
+  }
+
+  html, body {
+    height: 100%;
+  }
+
+  #container {
+      min-height: 100%;
+  }
+
+  #main {
+    overflow: auto;
+    padding-bottom: 100px;
+  }
+
+  #footer {
+    backgroud-color: #000;
+    position: relative;
+    height: 100px;
+    margin-top: -100px;
+    clear: both;
+  }
