@@ -1,3 +1,50 @@
+.headline{
+  font-family: 'Roboto Condensed', Arial, sans-serif;
+  font-stretch: condensed;
+  font-size: 3em;
+  font-weight: 700;
+  text-align: left;
+}
+.chapter-headline{
+  font-family: 'Roboto Condensed', Arial, sans-serif;
+  font-size: 1.5em;
+  font-weight: bold;
+  padding-top: 1em;
+}
+.sidebar{
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding: 1em;
+  border: .5em solid #5AA632;
+}
+.sidebar-headline{
+  font-family: 'Roboto Condensed', Arial, sans-serif;
+  font-size: 1.3em;
+  font-weight: 500;
+  color:#fff;
+  text-align: center;
+  background-color: #5AA632;
+  padding-top: .2em;
+  padding-bottom: .5em;
+  margin-top: -.8em;
+  margin-left: -.8em;
+  margin-right: -.8em;
+}
+.sidebar-description{
+  font-family: 'Roboto', Arial, sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  color:#000;
+  letter-spacing: normal;
+  line-height: normal;
+  text-align: left;
+}
+.ul-sidebar{
+  font-size: .9em;
+}
+.li-sidebar{
+  margin-top: .5em;
+}
 .byline{
   font-family: 'Roboto', Arial, sans-serif;
   font-size: .9em;
