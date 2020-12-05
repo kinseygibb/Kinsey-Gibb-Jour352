@@ -135,6 +135,12 @@ p{
 .hero-image{
   width: 100%;
 }
+/*centering harriots image*/
+.harriett_img {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
 /* overlay class*/
 .overlay{
   position:absolute; /* specifies exact position*/
