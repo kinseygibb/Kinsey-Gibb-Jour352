@@ -15,7 +15,7 @@
   margin-top: 1em;
   margin-bottom: 1em;
   padding: 1em;
-  border: .5em solid #5AA632;
+  border: .5em solid #dc3545;
 }
 .sidebar-headline{
   font-family: 'Roboto Condensed', Arial, sans-serif;
@@ -23,7 +23,7 @@
   font-weight: 500;
   color:#fff;
   text-align: center;
-  background-color: #5AA632;
+  background-color: #dc3545;
   padding-top: .2em;
   padding-bottom: .5em;
   margin-top: -.8em;
@@ -141,7 +141,7 @@ p{
   margin-left:auto;
   margin-right:auto;
   width:50%;
-  
+
 }
 /* overlay class*/
 .overlay{
